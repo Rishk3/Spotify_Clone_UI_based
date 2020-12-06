@@ -3,6 +3,8 @@
 ## Much Things to be added in future
 
 ![Landing Page](/src/screenShots/home.png?raw=true "Landing Page")
+![Landing Page](/src/screenShots/auth.png?raw=true "Authrization Page")
+![Landing Page](/src/screenShots/main.png?raw=true "Player Page")
 
 ## Available Scripts
 
