@@ -1,0 +1,18 @@
+.sidebar__options {
+  color: #aaaaaa;
+  height: 35px;
+  cursor: pointer;
+  transition: 80ms color ease-in;
+}
+.sidebar__options__item {
+  display: flex;
+  padding-left: 25px;
+}
+.sidebar__options:hover {
+  color: white;
+}
+.sidebar__options__heading {
+  margin-left: 15px;
+
+  font-weight: 500;
+}

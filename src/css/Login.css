@@ -1,0 +1,50 @@
+.login {
+  min-height: 78vh;
+  max-height: 100vh;
+  padding: 5% 10%;
+  background-color: #191414;
+}
+.login__inner__box {
+  display: grid;
+  padding: 20px 20px;
+  background-color: black;
+  min-height: 70vh;
+  box-shadow: 20px 20px 30px #271f1f, -20px -20px 30px #271f1f;
+  place-items: center;
+  border-radius: 50px;
+}
+.login__inner__box > img {
+  width: 80%;
+}
+.login__inner__box > a {
+  padding: 20px;
+  background-color: #1db954;
+  border-radius: 100px;
+  font-weight: 600;
+  color: white;
+  text-decoration: none;
+}
+@media only screen and (max-width: 600px) {
+  .login__inner__box > img {
+    width: 80%;
+  }
+  .login {
+    max-height: 100vh;
+    padding: 10% 10%;
+    background-color: #191414;
+  }
+  .login__inner__box {
+    display: grid;
+    padding: 20px 10px;
+    background-color: black;
+    min-height: 75vh;
+
+    place-items: center;
+
+    border-radius: 20px;
+  }
+  .login__inner__box > a {
+    padding: 15px;
+    border-radius: 20px;
+  }
+}

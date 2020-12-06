@@ -1,0 +1,33 @@
+.sidebar {
+  position: fixed;
+  background-color: #040404;
+  height: 100vh;
+  padding-bottom: 9vh;
+  min-width: 200px;
+
+  color: white;
+}
+.sidebar__logo {
+  height: 90px;
+  margin-right: auto;
+}
+.sidebar__library {
+  padding-top: 15px;
+}
+.sidebar__library__heading {
+  font-weight: 600;
+  font-size: 18px;
+  padding-left: 10px;
+  margin-bottom: 10px;
+}
+.sidebar__library__list {
+  overflow: auto;
+}
+@media only screen and (max-width: 600px) {
+  .sidebar__logo {
+    height: 70px;
+  }
+  /* .sidebar {
+    display: none;
+  } */
+}
