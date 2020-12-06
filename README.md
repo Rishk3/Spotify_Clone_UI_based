@@ -2,7 +2,7 @@
 
 ## Much Things to be added in future
 
-![Landing Page](/screenShots/home.png?raw=true "Landing Page")
+![Landing Page](/src/screenShots/home.png?raw=true "Landing Page")
 
 ## Available Scripts
 
