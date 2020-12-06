@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Rishikify a mini Clone of Spotify
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Much Things to be added in future
+
+![Landing Page](/screenShots/home.png?raw=true "Landing Page")
 
 ## Available Scripts
 
